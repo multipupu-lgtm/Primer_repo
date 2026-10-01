@@ -1,2 +1,2 @@
 # Primer_repo
-##este es mi primer reòsitorio
+## este es mi primer reòsitorio
